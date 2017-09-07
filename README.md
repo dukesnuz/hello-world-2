@@ -1,1 +1,1 @@
-# hello-world-2
+# Practice repository for DWA.
