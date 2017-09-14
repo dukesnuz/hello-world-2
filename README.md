@@ -1,3 +1,3 @@
-# Harvard Extension School | CSCI E-15 Dynamic Web Applications | Project 1
+# HES Dynamic Web Applications
 ## Practice repository for DWA.
 http://dwa15.com
