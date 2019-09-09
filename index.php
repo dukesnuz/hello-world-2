@@ -2,10 +2,8 @@
 <img src='./images/cactus.jpg' width='250' height='250' alt='A
 Ball Cactus'>
 
-<p>A change</p>
-
-<p>Checking to see if able to fax from Digital Ocean</p>
-
+<p><a href="http://dukesnuz.com/self-study-courses/courses-menu/dukesnuz-david-petringa#e-15">
+  Student: David Petringa</a></p>
 
 <!-- Default Statcounter code for Harvard Extension DWA
 http://http//www.dukesnuz.com -->
